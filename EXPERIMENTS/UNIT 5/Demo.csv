@@ -1,0 +1,6 @@
+,Name,Age,City,Salary
+0,Alice,30,NewYork,70000
+1,Bob,25,LA,55000
+2,Charlie,,Chicago,80000
+3,David,40,Spain,95000
+4,Eva,28,,62000
